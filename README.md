@@ -10,6 +10,6 @@ VitalCrowd es una plataforma de **crowdfunding especializada en salud**, diseña
 ✅ **Fácil y accesible**: Registro simple y creación rápida de campañas.  
 
 ## 🛠️ Equipo y Tecnologías utilizadas  
-- **Desarrollo**: *Carlos Jimenez y Melania Palomino* - [FlutterFlow]  
-- **Diseño**: *Ana Sánchez* - [Figma]  
-- **Research**: *Carla Lemos* - [Canva]  
+- **Desarrollo**: *Carlos Jimenez y Melania Palomino* - [FlutterFlow](https://vital-crowd-05yygt.flutterflow.app)
+- **Diseño**: *Ana Sánchez* - [Figma](https://www.figma.com/design/2fd4I0qmOQGQDPIuhGFVk2/Startups-salud?node-id=0-1&t=3tK7TPnRxj1A9Yu1-1)
+- **Research**: *Carla Lemos* - [Canva](https://www.canva.com/design/DAGdMICd_Ek/ZeU5bA8ljpFdi7n_xES79w/edit?utm_content=DAGdMICd_Ek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
